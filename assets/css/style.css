@@ -1,0 +1,54 @@
+i{
+    font-size: 100px;
+}
+
+#container_1{
+    text-align: center;
+    margin-top: 20px;
+    padding-top: -20px;
+    margin-bottom:20px;
+    background-color: rgb(250, 248, 248, 0.7);
+}
+
+body{
+    background-image: url(../images/images.jpeg);
+    background-repeat: vertical;
+    background-size: cover;
+    height: 100vh;
+    /*added this keep the background image from scrolling */
+    background-attachment: fixed;
+    /* font family */
+    font-family: 'Acme', sans-serif; 
+}
+
+h3, p{
+ font-family: 'Acme', sans-serif;
+}
+
+
+
+#brand {
+    font-family: 'Acme', sans-serif;
+
+}
+
+#signin{
+    background-color: rgb(250, 248, 248, 0.7);
+}
+
+/*styling the login banner text */
+#login-text {
+    color: black;
+    background-color: rgb(250, 248, 248, 0.7);
+    font-family: 'Acme', sans-serif;
+}
+
+#favoritesBox {
+    background-color: rgb(250, 248, 248, 0.7);
+}
+
+#favoritesTitle {
+    border-bottom: 1px solid #777777;
+}
+
+
